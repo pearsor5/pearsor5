@@ -1,4 +1,13 @@
-## Hi there 👋
+Hi there 👋
+🔭 I am currently working on data processing, data analysis, and automation workflows related to my work on LCMS and GCMS.
+🌱 I am currently learning how to work alongside coding agents instead of writing code myself like the cavemen did.
+👯 I’m looking to collaborate on developing a suite of tools for PTDA and beyond!
+🤔 I’m looking for help with keeping up to date on the latest development practices. Things are changing so quickly!
+💬 Ask me about my thoughts on how to make code faster using modern tools and approaches.
+📫 How to reach me: pearsor5@gene.com
+😄 Pronouns: he/him/his
+⚡ Fun facts: I love cheesecake!
+My favorite languages are python and rust so if your project involves either of those, I'd love to be involved!
 
 <!--
 **pearsor5/pearsor5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
