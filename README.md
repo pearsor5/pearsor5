@@ -5,7 +5,7 @@ Hi there 👋
 - 🤔 I’m looking for help with keeping up to date on the latest development practices. Things are changing so quickly!
 - 💬 Ask me about my thoughts on how to make code faster using modern tools and approaches.
 - 📫 How to reach me: pearsor5@gene.com
- -😄 Pronouns: he/him/his
+- 😄 Pronouns: he/him/his
 - ⚡ Fun facts: I love cheesecake!
   
 My favorite languages are python and rust so if your project involves either of those, I'd love to be involved!
